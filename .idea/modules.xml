@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../alfred-markdown-curator-workflow/alfred-markdown-curator-workflow.iml" filepath="$PROJECT_DIR$/../alfred-markdown-curator-workflow/alfred-markdown-curator-workflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../markdown-curator-demo/application/demo-application.iml" filepath="$PROJECT_DIR$/../markdown-curator-demo/application/demo-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../markdown-curator-demo/vault/demo-vault.iml" filepath="$PROJECT_DIR$/../markdown-curator-demo/vault/demo-vault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../markdown-curator/markdown-curator.iml" filepath="$PROJECT_DIR$/../markdown-curator/markdown-curator.iml" />
       <module fileurl="file://$PROJECT_DIR$/markdown-suite.iml" filepath="$PROJECT_DIR$/markdown-suite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../marked-markdown-curator-filter/marked-markdown-curator-filter.iml" filepath="$PROJECT_DIR$/../marked-markdown-curator-filter/marked-markdown-curator-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../obsidian-alfred-trigger-plugin/obsidian-alfred-trigger-plugin.iml" filepath="$PROJECT_DIR$/../obsidian-alfred-trigger-plugin/obsidian-alfred-trigger-plugin.iml" />
     </modules>
   </component>
 </project>

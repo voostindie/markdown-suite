@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../alfred-markdown-curator-workflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../markdown-curator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../markdown-curator-demo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../marked-markdown-curator-filter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../obsidian-alfred-trigger-plugin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vincents-markdown-curator" vcs="Git" />
   </component>
 </project>

@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Daemon - Demo" type="Application" factoryName="Application">
+    <envs>
+      <env name="LC_CTYPE" value="UTF-8" />
+      <env name="VAULT_PATH" value="$PROJECT_DIR$/../markdown-curator-demo/vault" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="nl.ulso.curator.Application" />
+    <module name="vincents-markdown-curator" />
+    <option name="PROGRAM_PARAMETERS" value="--server:7777 demo" />
+    <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
